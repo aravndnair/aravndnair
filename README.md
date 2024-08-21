@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravndnair&label=Profile%20views&color=0e75b6&style=flat" alt="aravndnair" /> </p>
 <p align="right"> <img src="https://github.com/aravndnair/aravndnair/blob/main/blas.gif" alt="aravndnair" /> </p>
-- 🌱 I’m currently learning **Flutter app development and Stable diffusion**
+- 🌱 I’m currently learning **Flutter app development**
 
 - 👯 I’m looking to collaborate on **Graphic Designing**
 
