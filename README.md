@@ -10,7 +10,7 @@
       <p>- 👯 I’m looking to collaborate on <strong>Graphic Designing</strong></p>
       <p>- 💬 Ask me about <strong>Anything Adobe, Figma</strong></p>
       <p>- 📫 How to reach me <strong>aravindnairu2004@gmail.com</strong></p>
-      <p>- ⚡ Fun fact <strong>I'm either jobless or high as fuck all the time</strong></p>
+      <p>- ⚡ Fun fact <strong>I'm either jobless or high as fuck </strong></p>
     </td>
     <td>
       <img src="https://github.com/aravndnair/aravndnair/blob/main/blas.gif" alt="aravndnair" style="width: 200px; height: auto;"/>
