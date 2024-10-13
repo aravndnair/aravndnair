@@ -8,7 +8,7 @@
     <td>
       <p>- 🌱 I’m currently learning <strong>Flutter app development</strong></p>
       <p>- 👯 I’m looking to collaborate on <strong>Graphic Designing</strong></p>
-      <p>- 💬 Ask me about <strong>Anything Adobe, Figma</strong></p>
+      <p>- 💬 Ask me about <strong>Anything Photoshop, Figma</strong></p>
       <p>- 📫 How to reach me <strong>aravindnairu2004@gmail.com</strong></p>
       <p>- ⚡ Fun fact <strong>I'm either jobless or high as fuck </strong></p>
     </td>
