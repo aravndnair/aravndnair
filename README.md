@@ -1,6 +1,8 @@
 # 💫 About Me:
 🎓 CS Student | 💻 Passionate Coder | 🔍 Tech Explorer  <br>🚀 I love building tools, automating things, and solving real-world problems.  <br>🌱 Currently learning: Full Stack Dev, Machine Learning<br>🎨 I love to create designs and i consider designing my biggest hobby
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1000+-blue)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=aravndnair&color=blue&style=flat-square)
 
 
 ## 🌐 Socials:
